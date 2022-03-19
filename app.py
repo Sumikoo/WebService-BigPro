@@ -1,3 +1,7 @@
+# Kelompok Big Project
+# 1. Nur Khafidah (19090075) 6C
+# 2. Helina Putri (19090133) 6D
+
 # import library
 from flask import Flask, request, make_response, jsonify
 from flask_cors import CORS
